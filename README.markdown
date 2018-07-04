@@ -68,6 +68,6 @@
     [2] Text to Ascii Art Maker: http://patorjk.com/software/taag/
 
 ## Author
-  Junpei Komiyama (junpei.komiyama atmark gmail.com)
+  Junpei Komiyama (junpei.komiyama atmark gmail.com) -- Feel free to ask me!
   
   This software is released under the MIT License, see LICENSE.txt.
